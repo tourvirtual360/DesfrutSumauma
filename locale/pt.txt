@@ -1,0 +1,39 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual em nossa loja.
+
+### Title
+tour.name = Desfrut Loja Sumauma
+
+## Skin
+
+### Button
+Button_A4599C3D_AB08_9C35_4190_DABD60E14222.label = Compre no Site
+Button_A507D492_AB0B_8CCF_41E5_37DB21046943.label = Compre no Site
+
+## Media
+
+### Title
+panorama_47D23BD7_48E0_E08C_41C6_FC75FF9C1426.label = IMG_20240722_171750_00_merged
+panorama_47D23E47_48EF_638C_41CC_C2F6122A9716.label = IMG_20240728_142359_00_merged
+panorama_47D25D21_48EF_2184_41D0_A8BC8578D422.label = IMG_20240728_142314_00_merged
+panorama_47D301DA_48E1_6085_41BB_69D5BBC62ABB.label = IMG_20240610_201713_00_merged
+panorama_47D383DE_48E1_20BC_41B2_58106E439221.label = IMG_20240610_201809_00_merged
+panorama_589BD290_48E1_E084_41BE_8395DFE690AD.label = IMG_20240610_201628_00_merged
+
+## Action
+
+### URL
+LinkBehaviour_A92D76FA_B8B4_00DA_41E3_1F855F5D2BCF.source = https://www.youtube.com/@desfrutss
+LinkBehaviour_AAB9F79C_BFE6_6405_41E2_502C66A45254.source = https://www.youtube.com/@desfrutss
+LinkBehaviour_BEE6C6AA_AB7E_BCC8_41D2_2380AF659D83.source = https://desfrutsexshop.com.br/index.php
+LinkBehaviour_BFE016A3_AB79_BCF9_41C5_8BDBCD734254.source = https://desfrutsexshop.com.br/index.php
+LinkBehaviour_EC500D49_E2A4_1CED_41D6_E78CB720357B.source = https://maps.app.goo.gl/fd1U4x9w8GiGkonF9
+LinkBehaviour_EC794BCF_E2A4_3BE6_41B1_0505872EA4F7.source = https://www.instagram.com/desfrutss/
+LinkBehaviour_ED079F40_E2A4_1CDB_41E5_839187427926.source = https://web.whatsapp.com/send?phone=5592991063416
+LinkBehaviour_F55B820D_E2A4_046A_41E3_7427B8C16C5D.source = https://www.instagram.com/desfrutss/
+LinkBehaviour_F55BB20F_E2A4_0466_41CE_A96EA4A2B0A5.source = https://wa.link/6rhvb2
+LinkBehaviour_F55BE210_E2A4_047A_41B3_1967A7BB847B.source = https://maps.app.goo.gl/fd1U4x9w8GiGkonF9
