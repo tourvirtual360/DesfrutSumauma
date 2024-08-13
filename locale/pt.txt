@@ -33,7 +33,7 @@ LinkBehaviour_BEE6C6AA_AB7E_BCC8_41D2_2380AF659D83.source = https://desfrutsexsh
 LinkBehaviour_BFE016A3_AB79_BCF9_41C5_8BDBCD734254.source = https://desfrutsexshop.com.br/index.php
 LinkBehaviour_EC500D49_E2A4_1CED_41D6_E78CB720357B.source = https://maps.app.goo.gl/fd1U4x9w8GiGkonF9
 LinkBehaviour_EC794BCF_E2A4_3BE6_41B1_0505872EA4F7.source = https://www.instagram.com/desfrutss/
-LinkBehaviour_ED079F40_E2A4_1CDB_41E5_839187427926.source = https://web.whatsapp.com/send?phone=5592991063416
+LinkBehaviour_ED079F40_E2A4_1CDB_41E5_839187427926.source = https://wa.link/4cvmlz
 LinkBehaviour_F55B820D_E2A4_046A_41E3_7427B8C16C5D.source = https://www.instagram.com/desfrutss/
-LinkBehaviour_F55BB20F_E2A4_0466_41CE_A96EA4A2B0A5.source = https://wa.link/6rhvb2
+LinkBehaviour_F55BB20F_E2A4_0466_41CE_A96EA4A2B0A5.source = https://wa.link/4cvmlz
 LinkBehaviour_F55BE210_E2A4_047A_41B3_1967A7BB847B.source = https://maps.app.goo.gl/fd1U4x9w8GiGkonF9
