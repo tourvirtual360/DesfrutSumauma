@@ -12,6 +12,7 @@ tour.name = Desfrut Loja Sumauma
 
 ### Button
 Button_69B123AF_735C_66D3_41C2_9D8F3B269A79.label = IR PARA DESFRUT VIEIRALVES
+Button_6EBBA81D_73BD_E1F7_41D9_64E34A6E31B6.label = IR PARA DESFRUT VIEIRALVES
 Button_A4599C3D_AB08_9C35_4190_DABD60E14222.label = Compre no Site
 Button_A507D492_AB0B_8CCF_41E5_37DB21046943.label = Compre no Site
 
@@ -29,6 +30,7 @@ panorama_589BD290_48E1_E084_41BE_8395DFE690AD.label = IMG_20240610_201628_00_mer
 
 ### URL
 LinkBehaviour_69B103B1_735C_66CF_41D4_CFCE0D0B3BEA.source = https://tourvirtual360.github.io/DesfrutsSexShop/
+LinkBehaviour_6EBB981E_73BD_E1F5_41D3_612BD0234A3B.source = https://tourvirtual360.github.io/DesfrutsSexShop/
 LinkBehaviour_A92D76FA_B8B4_00DA_41E3_1F855F5D2BCF.source = https://www.youtube.com/@desfrutss
 LinkBehaviour_AAB9F79C_BFE6_6405_41E2_502C66A45254.source = https://www.youtube.com/@desfrutss
 LinkBehaviour_BEE6C6AA_AB7E_BCC8_41D2_2380AF659D83.source = https://desfrutsexshop.com.br/index.php
