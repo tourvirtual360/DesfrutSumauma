@@ -11,9 +11,11 @@ tour.name = Desfrut Loja Sumauma
 ## Skin
 
 ### Button
-Button_629C14D9_7AD5_75B7_41CB_FFF71260F401.label = CONHEÇA DESFRUT VIEIRALVES
-Button_69B123AF_735C_66D3_41C2_9D8F3B269A79.label = CONHECER DESFRUT VIEIRALVES
+Button_629C14D9_7AD5_75B7_41CB_FFF71260F401.label = Ir para a loja
+Button_69B123AF_735C_66D3_41C2_9D8F3B269A79.label = Ir para a loja
 Button_6D4A5D6A_7ADB_5495_41D7_3FA870A9EBFC.label = COMPRE NO SITE
+Button_84B867F3_9632_0396_41D9_57B79F27F126.label = DESFRUT VIEIRALVES
+Button_85ADAE9A_9656_0597_41D1_05A37BCE27A4.label =  DESFRUT VIEIRALVES
 Button_A507D492_AB0B_8CCF_41E5_37DB21046943.label = Compre no Site
 
 ## Media
@@ -32,6 +34,8 @@ panorama_589BD290_48E1_E084_41BE_8395DFE690AD.label = IMG_20240610_201628_00_mer
 LinkBehaviour_629C04DA_7AD5_75B5_41D5_F43ACCFDAF83.source = https://tourvirtual360.github.io/DesfrutsSexShop/
 LinkBehaviour_69B103B1_735C_66CF_41D4_CFCE0D0B3BEA.source = https://tourvirtual360.github.io/DesfrutsSexShop/
 LinkBehaviour_6D4AAD6B_7ADB_576B_41D6_667CC06DDF72.source = https://desfrutsexshop.com.br/index.php
+LinkBehaviour_84B887F4_9632_0392_4180_7F50A9E6957D.source = https://tourvirtual360.github.io/DesfrutsSexShop/
+LinkBehaviour_85AD9E9B_9656_0595_41CB_EBC60803FB89.source = https://tourvirtual360.github.io/DesfrutsSexShop/
 LinkBehaviour_A92D76FA_B8B4_00DA_41E3_1F855F5D2BCF.source = https://www.youtube.com/@desfrutss
 LinkBehaviour_AAB9F79C_BFE6_6405_41E2_502C66A45254.source = https://www.youtube.com/@desfrutss
 LinkBehaviour_BFE016A3_AB79_BCF9_41C5_8BDBCD734254.source = https://desfrutsexshop.com.br/index.php
